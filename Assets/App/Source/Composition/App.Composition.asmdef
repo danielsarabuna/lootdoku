@@ -1,0 +1,23 @@
+{
+    "name": "App.Composition",
+    "rootNamespace": "App.Composition",
+    "references": [
+        "App.Domain",
+        "App.Application",
+        "App.Infrastructure",
+        "App.Presentation",
+        "VContainer",
+        "MessagePipe",
+        "MessagePipe.VContainer",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

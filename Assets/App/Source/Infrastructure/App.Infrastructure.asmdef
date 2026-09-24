@@ -1,0 +1,24 @@
+{
+    "name": "App.Infrastructure",
+    "rootNamespace": "App.Infrastructure",
+    "references": [
+        "App.Domain",
+        "App.Application",
+        "UniTask",
+        "Unity.InputSystem",
+        "Unity.Addressables",
+        "Unity.ResourceManager",
+        "VContainer",
+        "MessagePipe",
+        "DOTween.Modules"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

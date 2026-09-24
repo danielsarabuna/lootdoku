@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: GameAssets
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: GameAssets
+  m_GUID: ecd55880c94764808bac05ab957ffdcb
+  m_SerializeEntries:
+  - m_GUID: 1249f876326e743dd8d6807a2e13038e
+    m_Address: Audio/SFX_Take
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - SFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20caabd811de04d7b8c6c3e8d258cb7b
+    m_Address: Config/Figures/Tetromino_S
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Figure
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 225bc5d7c430a422ea37e692b49b04c1
+    m_Address: Config/Figures/Tetromino_Z
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Figure
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2521dadf709004f2eba7fbc0148bdb8e
+    m_Address: Config/Figures/Square_2x2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Figure
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 291c0faabff234000bf5c6f1461f922e
+    m_Address: Config/Figures/Cross_Plus
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Figure
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a311d1dce032451b9478e6283a4987f
+    m_Address: Config/Figures/Tetromino_L
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Figure
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 365bbd3fb6aad4ecf984eb08707dc5ed
+    m_Address: Config/Figures/Tetromino_J
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Figure
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f3ad8205222e40ae9ac79bd851115da
+    m_Address: Audio/SFX_Destroy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - SFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 517d27e0e73ec463e86c61a6859a2ef4
+    m_Address: Config/Figures/Square_3x3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Figure
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69bf65ac08f7c4ba48c5b51f76a53e6c
+    m_Address: Audio/SFX_Place
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - SFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ac7c8260de5d4bbf9d3e8518784d9a6
+    m_Address: Audio/SFX_Rotate
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - SFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7cf775e6607ee4a1e99e4dad0a26b137
+    m_Address: Config/Figures/Corner_2x2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Figure
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8224c67abb5914497a1ffc25da8221a6
+    m_Address: Config/Figures/Tetromino_T
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Figure
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d492888625d1474ebcdebc877093c7f
+    m_Address: Config/Figures/Corner_3x3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Figure
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f745411ff554488686b6d2c94096e4c
+    m_Address: Config/Figures/Line_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Figure
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf08bbb068ac845c9a1a5b9568f5c210
+    m_Address: Config/Figures/Line_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Figure
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c838b7f17f69d4c829654e4e2763d444
+    m_Address: Audio/BackgroundMusic
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    - Music
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d815a765ae44d462fa901a91bd496e30
+    m_Address: Config/Figures/Line_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Figure
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: edb673d456d4e4fa6ba3322d2199ae60
+    m_Address: Config/Figures/Line_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Figure
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee8e28b96568c42feb0e22d882ee2676
+    m_Address: Config/Figures/Single_1x1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Figure
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 539a6f734ae6a47deaf53009b84d6525, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f782f601936d643978edb20bbde886ec, type: 2}
+    - {fileID: 11400000, guid: ab6cc8264a64b4daaaf8a9d4c3ef0d27, type: 2}

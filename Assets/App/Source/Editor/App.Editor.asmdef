@@ -1,0 +1,32 @@
+{
+    "name": "App.Editor",
+    "rootNamespace": "App.Editor",
+    "references": [
+        "App.Domain",
+        "App.Application",
+        "App.Infrastructure",
+        "App.Presentation",
+        "App.Composition",
+        "UnityEngine.UI",
+        "Unity.TextMeshPro",
+        "Unity.InputSystem",
+        "Unity.InputSystem.ForUI",
+        "VContainer",
+        "UniTask",
+        "DOTween.Modules",
+        "Unity.Addressables",
+        "Unity.Addressables.Editor",
+        "Unity.ResourceManager"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

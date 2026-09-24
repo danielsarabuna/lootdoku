@@ -1,0 +1,24 @@
+{
+    "name": "App.Presentation",
+    "rootNamespace": "App.Presentation",
+    "references": [
+        "App.Domain",
+        "App.Application",
+        "UniTask",
+        "VContainer",
+        "MessagePipe",
+        "DOTween.Modules",
+        "UnityEngine.UI",
+        "Unity.TextMeshPro",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
